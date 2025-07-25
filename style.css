@@ -15,6 +15,8 @@
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-style: normal;
+    
+    
 }
 
 body {
@@ -31,6 +33,8 @@ header {
 
 a {
     cursor: pointer;
+    text-decoration: none;
+    color: #000000;
 }
 
 .logo {
