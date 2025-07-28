@@ -477,6 +477,7 @@ li:hover::after {
     align-items: center;
     position: relative;
     flex-wrap: wrap;
+    padding-top: 5rem;
 }
 
 .project-title {
@@ -501,8 +502,8 @@ li:hover::after {
 }
 
 .project-box {
-    height: 20rem;
-    width: 15rem;
+    height: 400px;
+    width: 350px;
     background-color: var(--fotncolor);
     border-radius: 1rem;
     overflow: hidden;
@@ -542,8 +543,8 @@ li:hover::after {
 }
 
 .text-box {
-    height: 10rem;
-    width: 17rem;
+    height: 200px;
+    width: 350px;
     z-index: 2;
     border-left: -10px;
     display: flex;
@@ -559,7 +560,7 @@ li:hover::after {
 }
 
 .text-box p {
-    font-size: var(--fontp);
+    font-size: 1rem;
     text-align: center;
 }
 
@@ -581,7 +582,7 @@ li:hover::after {
 }
 
 .text-box2 p {
-    font-size: var(--fontp);
+    font-size: 1rem;
     text-align: center;
 }
 
@@ -589,7 +590,7 @@ li:hover::after {
     display: flex;
     position: absolute;
     gap: 5px;
-    bottom: 8.5rem;
+    bottom: 8rem;
     flex-wrap: wrap;
 
 }
