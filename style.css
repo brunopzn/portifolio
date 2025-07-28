@@ -377,7 +377,7 @@ li:hover::after {
 
 .barpy {
     height: 1rem;
-    width: 8rem;
+    width: 6rem;
     background: linear-gradient(to right, rgb(207, 214, 3) 50%, rgb(143, 143, 1) 100%);
     position: absolute;
     border-radius: 2rem;
@@ -393,7 +393,7 @@ li:hover::after {
 
 .barTail {
     height: 1rem;
-    width: 10rem;
+    width: 8rem;
     background: linear-gradient(to right, rgb(77, 143, 242) 50%, rgb(50, 60, 255) 100%);
     position: absolute;
     border-radius: 2rem;
@@ -409,7 +409,7 @@ li:hover::after {
 
 .barreact {
     height: 1rem;
-    width: 6rem;
+    width: 3rem;
     background: linear-gradient(to right, rgb(77, 143, 242) 50%, rgb(50, 60, 255) 100%);
     position: absolute;
     border-radius: 2rem;
@@ -425,7 +425,7 @@ li:hover::after {
 
 .barNext {
     height: 1rem;
-    width: 7rem;
+    width: 3rem;
     background: linear-gradient(to right, rgb(15, 15, 15) 50%, rgb(53, 53, 53) 100%);
     position: absolute;
     border-radius: 2rem;
@@ -441,7 +441,7 @@ li:hover::after {
 
 .barSql {
     height: 1rem;
-    width: 4rem;
+    width: 2rem;
     background: linear-gradient(to right, rgb(77, 143, 242) 50%, rgb(50, 60, 255) 100%);
     position: absolute;
     border-radius: 2rem;
